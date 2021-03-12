@@ -1081,4 +1081,23 @@ module.exports = [
       'Tech',
     ]
   },
+  {
+    name: 'Jusn Fernandes',
+    description: 'Freelance Web Designer',
+    url: 'https://www.juanfernandes.uk',
+    twitter: '@juanfernandes',
+    tags: [
+      'HTML',
+      'CSS',
+      'JavaScript',
+      'Web Development',
+      'Web Design',
+      '11ty',
+      'SSG',
+      'Perch CMS',
+      'Front End',
+      'TailwindCSS',
+      'Web Hosting',
+    ],
+  },
 ];
